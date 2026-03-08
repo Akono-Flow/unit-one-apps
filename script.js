@@ -14,20 +14,20 @@ const apps = [
     icon: "flask-conical",
     color: "#e83e8c"
   },
-  // {
-  //   title: "Edu-Quadratics",
-  //   description: "Generate quadratic expressions for factorization",
-  //   url: "https://akono-flow.github.io/quadratics-gen/",
-  //   icon: "gamepad",
-  //   color: "#0d6efd"
-  // },
-  // {
-  //   title: "Titration Curves",
-  //   description: "Explore types of titration curve with interactive simulator",
-  //   url: "https://tcurves.learnwithcole.com/",
-  //   icon: "flask-round",
-  //   color: "#05cdfe"
-  // },
+  {
+    title: "Thermometric Titration",
+    description: "Plot graph with Temperature data to explore endpoint of acid-base reactions",
+    url: "https://thermometric.learnwithcole.com/",
+    icon: "pipette",
+    color: "#0d6efd"
+  },
+  {
+    title: "Titration Curves",
+    description: "Explore types of titration curve with interactive simulator",
+    url: "https://tcurves.learnwithcole.com/",
+    icon: "flask-round",
+    color: "#05cdfe"
+  },
   // {
   //   title: "Simple Harmonic Oscillator",
   //   description: "Simulate SHM Motion with this interactive simulator",
