@@ -7,13 +7,13 @@ const apps = [
     icon: "radiation",
     color: "#0d6efd"
   },
-  // {
-  //   title: "Edu-Jeopardy",
-  //   description: "Explore Ideas and topics with Jeopardy",
-  //   url: "https://akono-flow.github.io/edu-jeopardy/",
-  //   icon: "gamepad-2",
-  //   color: "#e83e8c"
-  // },
+  {
+    title: "Chemical Kinetics",
+    description: "Explore Rates of Reaction, Boltzmann Distribution and Half-life",
+    url: "https://rates.learnwithcole.com/",
+    icon: "flask-conical",
+    color: "#e83e8c"
+  },
   // {
   //   title: "Edu-Quadratics",
   //   description: "Generate quadratic expressions for factorization",
