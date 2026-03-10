@@ -28,13 +28,13 @@ const apps = [
     icon: "flask-round",
     color: "#05cdfe"
   },
-  // {
-  //   title: "Simple Harmonic Oscillator",
-  //   description: "Simulate SHM Motion with this interactive simulator",
-  //   url: "https://oscillator.learnwithcole.com/",
-  //   icon: "wand-sparkles",
-  //   color: "#06cdaf"
-  // },
+  {
+    title: "Chemical Equilibria",
+    description: "Explore the concepts of Chemical Equilibria",
+    url: "https://chemical-equilibria.learnwithcole.com/",
+    icon: "wand-sparkles",
+    color: "#06cdaf"
+  },
   // {
   //   title: "SCQ Visual Capture",
   //   description: "Captures visuals from TVJ matches",
