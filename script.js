@@ -31,7 +31,7 @@ const apps = [
   {
     title: "Chemical Equilibria",
     description: "Explore the concepts of Chemical Equilibria",
-    url: "https://chemical-equilibria.learnwithcole.com/",
+    url: "https://chemical-equilibrium.learnwithcole.com/",
     icon: "wand-sparkles",
     color: "#06cdaf"
   },
