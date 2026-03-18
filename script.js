@@ -35,6 +35,13 @@ const apps = [
     icon: "wand-sparkles",
     color: "#06cdaf"
   },
+  {
+    title: "Solubility Product",
+    description: "Explore Solubility Product, Common Ion Effect and Selective Precipitation",
+    url: "https://solubility-product.learnwithcole.com/",
+    icon: "wand-sparkles",
+    color: "#03fcec"
+  },
   // {
   //   title: "SCQ Visual Capture",
   //   description: "Captures visuals from TVJ matches",
